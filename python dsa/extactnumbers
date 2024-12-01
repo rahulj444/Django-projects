@@ -1,0 +1,8 @@
+n=int(input(" enter a number"))
+k=0
+while n!=0:
+    d=n%10
+    print(d,end="\n")
+    n=n//10
+    k=k+d
+print(f'the sum of numbers is: ', k)

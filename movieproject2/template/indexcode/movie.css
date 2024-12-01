@@ -1,0 +1,28 @@
+body{   
+background: url(https://www.freepik.com/free-photo/movie-background-collage_33752481.htm#fromView=keyword&page=1&position=0&uuid=21a5fd8f-48f0-4583-9f21-0ce2949f6cba);   
+  /* background-repeat: no-repeat;  
+    4)   background-size: cover; */   
+ }   
+ .container .jumbotron{   
+ margin-top:200px;   
+background: orange;   
+ color:white;   
+font-family: 'Merriweather', serif;   
+ }   
+table,tr,td,thead,th{   
+ border:2px solid white;   
+font-size: 30px;   
+ color:white;   
+ background:red;   
+   margin:auto;   
+ }   
+ thead,th{   
+   border:2px solid red;   
+  font-size: 30px;   
+ color:blue;   
+ margin:auto;   
+  background:yellow;   
+ }   
+h1{   
+   text-align: center;   
+ }  
